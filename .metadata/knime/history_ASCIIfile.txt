@@ -1,0 +1,2 @@
+knime://LOCAL/ETB/Inputs/InputDataChurnETB.txt
+knime://knime.workflow/data.all
